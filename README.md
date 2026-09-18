@@ -17,7 +17,7 @@ On 2019-01-06 the interactive user **IEUser** attached a USB device (General UDi
 
 ```cmd
 copy secret_file.docx F:
-**Folder Structure**
+
 ├── Reports/                  # All lesson reports + main Module 3 report
 ├── Plugin_Output/            # Raw Volatility plugin results
 ├── Hashes/                   # SHA-256 of original and working copy
